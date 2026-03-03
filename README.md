@@ -1,4 +1,6 @@
-"# Notes Converter - OCR Mobile App
+# Notes Converter - OCR Mobile App
+![Picture1](https://github.com/user-attachments/assets/c55ad43f-692f-4986-8ad7-34af07b59c04)
+![Picture2](https://github.com/user-attachments/assets/31aa1913-ea33-4fc6-ad11-7c37065b5368)
 
 A React Native OCR application built with Expo that extracts text from handwritten notes and images using Google Vision API.
 
